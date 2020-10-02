@@ -28,39 +28,3 @@ To contribute a paper, please follow the format listed below:
 *The general template to be used can be found [here](./ISSUE_TEMPLATE.md). Sample example of an issue can be found [here](https://github.com/khuyentran1401/machine-learning-articles/issues/3)*   
 ![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.47.16.png)
 
-
-### Tips  
-* The length of the TL;DR should be enough to **fit in a single tweet** (~140 characters). The "ideal" TL;DR should capture the essence of the problem being solved, the solution/approach the author has taken and the results. Please try your best to help communicate the essence of the article!
-* Remember, regard this as your own folder. **Just write down the things that you think will be useful for yourself to look back!** If an article has many pieces of information, some of which you already know and too lazy to write down in the template. Just write down whatever you feel like writing. It is better to write something than give it up all the way
-* If you are making a contribution for a specific article, please designate yourself within the **Assignees** of the issue. This will help us to identify who has provided content and accordingly give credit.
-* Use the **Labels to tag the category** of the article accordingly. (Currently only contributors are only allowed to issue those tags, thus we'll take care of the tagging when submissions have been recieved.)
-* Use the comments section as a place to discuss, comment, ask questions or give feedback on the article.
-
-### Ideas for those who make fork, create Issues from origin
-1. Fork repository 
-2. Enable Issues in **Settings -> Issues**
-
-    The steps 1 and 2 need be manual
-
-3. We need set **Personal Access Token** (PAT):
-    * **[Your Profile](https://github.com/settings/profile) -> Settings**
-    * **Developers -> Personal access token**
-    * Add new Token (copy for use in Secrets)
-      Make sure set the _**scopes**_: **repo**
-      Ex: Machine Learning Articles Access — repo
-
-    3.1 Settings your Repo:
-     * **Settings -> Secrets**
-     * Add a new secret:
-       **ACTIONS_SECRET** : `<paste personal access token generated before>`
-
-4. Create final **release: v1.0.0** (Import Issues to the repository)
-    * _**Optional**_ you can create one Project(machine-learning-articles/projects) named **Machine Learning Articles** (**To do** , **In progress**, **Done**) for manage the [Issues](https://github.com/oleksis/machine-learning-articles/projects/1)
-
-### How to
-#### Add image
-Adding image can be helpful to know what the article about. Simply copy the address of the image in the website and use `![image description](link to the image)` to add image to your issue!
-
-
-*For proposing any meta-level changes to this repository, such as adding more tags, changing the template format, please create a new issue using the `proposal` tag and provide us with your feedback!*
-
