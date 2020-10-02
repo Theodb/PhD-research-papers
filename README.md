@@ -2,30 +2,11 @@
 
 ## About
 
-A repository for organizing different topics of machine learning articles in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers. The article of this repo can be found [here](https://towardsdatascience.com/how-to-organize-your-data-science-articles-with-github-b5b9427dad37?source=friends_link&sk=4dfb338164ad6e95809d943f0dc0578e)
+A repository for organizing different topics of machine learning articles in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers.
 
 The website of this repo could be found [here](https://theodb.github.io/phd-research-papers/)
 
 ![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.15.39.png?raw=True)
-## Motivation
-
-Have you ever read an interesting article and want to keep it somewhere for future reference or share it with your friends? If you are successfully keeping it in a folder, it will be easily forgetten and hard to find that particular article in your pile of articles. 
-
-## Solution
-
-Use this repository as a way to **keep track of your favorite articles as well as see what other interesting articles that people are reading**. 
-
-## Why should you Contribute?
-Keeping track of articles in this repository comes with multiple benefits:
-
-* Organized your articles so that it is easy find your article for **future reference**
-* **Quickly review** the key points of the articles without reading the whole articles
-* The art of summarizing will help you to **retain and comprehend** the information better
-* **Save the time** of going through low-quality article by looking at the articles others enjoy
-* **Ask questions** or express your opinons on the articles in the comment section of Issues
-![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.16.33.png)
-
-## How to Contribute
 
 ### Format
 To contribute a paper, please follow the format listed below:
