@@ -30,5 +30,5 @@ To contribute a paper, please follow the format listed below:
     
 ## About
 
-This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers.
+This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers and by the implementation of [the khuyentran1401 repository](https://github.com/khuyentran1401/machine-learning-articles) 
 
