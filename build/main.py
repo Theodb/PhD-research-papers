@@ -14,7 +14,7 @@ import requests
 ISSUE = Optional[Dict[str, Any]]
 IssuesListOpt = Optional[List[ISSUE]]
 # Machine Learning Articles
-URL_REPO_ISSUES = 'https://api.github.com/repos/khuyentran1401/machine-learning-articles/issues'
+URL_REPO_ISSUES = 'https://api.github.com/repos/Theodb/PhD-research-papers/issues'
 
 
 def get_issues(url_issues: str) -> IssuesListOpt:
@@ -106,7 +106,7 @@ def export_issues_html(issues=get_issues(URL_REPO_ISSUES)) -> None:
     if gh_repository:
         gh_repository = gh_repository.split('/')[-1]
     else:
-        gh_repository = 'machine-learning-articles'
+        gh_repository = 'PhD-research-papers'
 
     gh_repository_description = os.getenv('GH_REPOSITORY_DESCRIPTION')
 
@@ -167,7 +167,7 @@ def main(token: str, repository: str) -> None:
 
 if __name__ == "__main__":
     parser = ArgumentParser(
-        description='Create Issues from khuyentran1401/machine-learning-articles'
+        description='Create Issues from Theodb/PhD-research-papers'
     )
 
     parser.add_argument(
