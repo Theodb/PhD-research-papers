@@ -1,4 +1,4 @@
-# Research papers Articles
+# Research papers repo
 
 A repository for organizing different topics of machine learning articles in the form of Github's Issues.
 
