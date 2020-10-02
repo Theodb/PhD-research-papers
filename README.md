@@ -4,7 +4,7 @@ A repository for organizing different topics of machine learning articles in the
 
 ## How to use it ?
 
-* Check a paper -> Go to the Issues tab where all the papers are listed - you can filter them by labels (Year, topic, author, conference). 
+* Check a paper -> Go to the Issues tab where all the papers are listed - you can filter them by labels (Year, topic, author, conference, corpus). 
 * Add a paper -> Go to the Issues tab and create a new issue, a template will be displayed
 
 ![Image](https://github.com/Theodb/PhD-research-papers/blob/master/images/screen-issues-tab.png)
