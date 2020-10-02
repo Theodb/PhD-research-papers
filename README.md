@@ -1,17 +1,15 @@
 # Research papers Articles
 
+A repository for organizing different topics of machine learning articles in the form of Github's Issues.
+
 ## How to use it ?
 
 * Check a paper -> Go to the Issues tab where all the papers are listed - you can filter them by labels (Year, topic, author, conference). 
 * Add a paper -> Go to the Issues tab and create a new issue, a template will be displayed
 
-## About
-
-A repository for organizing different topics of machine learning articles in the form of Github's Issues. This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers.
+![Image](https://github.com/Theodb/PhD-research-papers/screen-issues-tab.png)
 
 The website of this repo could be found [here](https://theodb.github.io/phd-research-papers/)
-
-![image](https://github.com/khuyentran1401/machine-learning-articles/blob/master/images/Screenshot%202020-04-10%2013.15.39.png?raw=True)
 
 ### Format
 To contribute a paper, please follow the format listed below:
@@ -29,3 +27,8 @@ To contribute a paper, please follow the format listed below:
     * What do you like about this article? What you wish to learn more from?
     * What issues you have while trying to follow the codes or setup in the article?
     * What parts of the articles that you are puzzling about?
+    
+## About
+
+This idea is inspired by [this arXivTimes repository](https://github.com/yutarochan/arXivTimes) on summarizing machine learning papers.
+
