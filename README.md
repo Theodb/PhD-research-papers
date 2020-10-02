@@ -1,4 +1,9 @@
-# Machine Learning Articles
+# Research papers Articles
+
+## How to use it ?
+
+* Check a paper -> Go to the Issues tab where all the papers are listed - you can filter them by labels (Year, topic, author, conference). 
+* Add a paper -> Go to the Issues tab and create a new issue a template will be displayed
 
 ## About
 
