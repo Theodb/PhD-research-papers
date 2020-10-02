@@ -9,7 +9,7 @@ A repository for organizing different topics of machine learning articles in the
 
 ![Image](https://github.com/Theodb/PhD-research-papers/blob/master/images/screen-issues-tab.png)
 
-The website of this repo could be found [here](https://theodb.github.io/phd-research-papers/)
+Not finished - The website of this repo could be found [here](https://theodb.github.io/phd-research-papers/)
 
 ### Format
 To contribute a paper, please follow the format listed below:
