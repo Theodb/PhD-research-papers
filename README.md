@@ -7,7 +7,7 @@ A repository for organizing different topics of machine learning articles in the
 * Check a paper -> Go to the Issues tab where all the papers are listed - you can filter them by labels (Year, topic, author, conference). 
 * Add a paper -> Go to the Issues tab and create a new issue, a template will be displayed
 
-![Image](https://github.com/Theodb/PhD-research-papers/screen-issues-tab.png)
+![Image](https://github.com/Theodb/PhD-research-papers/images/screen-issues-tab.png)
 
 The website of this repo could be found [here](https://theodb.github.io/phd-research-papers/)
 
